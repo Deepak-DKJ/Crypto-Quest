@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Crypto-Quest/static/css/main.1a9a7a29.css",
+    "main.js": "/Crypto-Quest/static/js/main.e99426fb.js",
+    "index.html": "/Crypto-Quest/index.html",
+    "main.1a9a7a29.css.map": "/Crypto-Quest/static/css/main.1a9a7a29.css.map",
+    "main.e99426fb.js.map": "/Crypto-Quest/static/js/main.e99426fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a9a7a29.css",
+    "static/js/main.e99426fb.js"
+  ]
+}
