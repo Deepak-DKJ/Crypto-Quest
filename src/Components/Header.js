@@ -47,7 +47,7 @@ const Header = () => {
           <Toolbar>
             <Typography
               className={classes.title}
-              onClick={() => navigate('/')}
+              onClick={() => navigate('/Crypto-Quest')}
               variant="h5"
             >
               Crypto Quest

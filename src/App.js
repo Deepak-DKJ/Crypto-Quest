@@ -24,7 +24,7 @@ function App() {
         <Header/>
 
         <Routes>
-          <Route path = '/' Component={Homepage} exact/>
+          <Route path = '/Crypto-Quest' Component={Homepage} exact/>
           <Route path = '/coins/:id' Component={Coinpage}/>
         </Routes>
 
